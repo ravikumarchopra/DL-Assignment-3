@@ -1,6 +1,10 @@
 # DL-Assignment-3
 
-## To run and verify the code please follow the following steps:
+## Text-Transliteration.
+* Hindi to English transliteration by training a LSTM Encoder and 2-layered Decoder with AttentionMechanism over Google Dakshina dataset and tuned the hyper parameters using parallel plots on Wandb.
+* Cell Types used for Encoder and Decoder: RNN, LSTM, GRU.
+
+### To run and verify the code please follow the following steps:
 
 * First open the jupiter notebook named `Assignment-3.ipynb`.
 * Then execute the Imports section.
